@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,Designation,Email,City,Salary,HireDate
+101,Raj,Mehta,IT,Software Engineer,raj.mehta@example.com,Mumbai,75000,15-06-2021
+102,Priya,Sharma,HR,HR Manager,priya.sharma@example.com,Delhi,68000,10-03-2020
+103,Amit,Verma,Sales,Sales Executive,amit.verma@example.com,Pune,52000,20-01-2022
+104,Sneha,Kapoor,IT,Data Analyst,sneha.kapoor@example.com,Bangalore,70000,25-11-2021
+105,John,Smith,Marketing,Marketing Lead,john.smith@example.com,New York,88000,01-07-2019
+106,Anjali,Rao,IT,Software Engineer,anjali.rao@example.com,Hyderabad,74000,14-02-2023
+107,David,Lee,Finance,Accountant,david.lee@example.com,Chicago,60000,10-08-2020
+108,Riya,Sen,Sales,Sales Manager,riya.sen@example.com,Kolkata,67000,05-12-2021
+109,Megha,Gupta,HR,Recruiter,megha.gupta@example.com,Chandigarh,50000,18-05-2022
+110,Vikram,Desai,IT,DevOps Engineer,vikram.desai@example.com,Ahmedabad,78000,01-06-2023
